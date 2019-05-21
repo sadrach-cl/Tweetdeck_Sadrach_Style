@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Sadrach minimal Tweetdeck
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/sadrachone/Tweetdeck_Sadrach_Style
 // @version      0.1
 // @description  versión más clara y simple de tweetdeck a mi pinta
 // @author       @Sadrach
