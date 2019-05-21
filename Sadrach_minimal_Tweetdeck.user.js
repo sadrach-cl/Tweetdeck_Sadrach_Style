@@ -10,6 +10,7 @@
 // @twitterURL   https://twitter.com/sadrach
 // @ContactURL   https://twitter.com/sadrach
 // @updateURL    https://github.com/sadrachone/Tweetdeck_Sadrach_Style/raw/master/Sadrach_minimal_Tweetdeck.user.js
+// @downloadURL  https://github.com/sadrachone/Tweetdeck_Sadrach_Style/raw/master/Sadrach_minimal_Tweetdeck.user.js
 // @grant        none
 // ==/UserScript==
 
