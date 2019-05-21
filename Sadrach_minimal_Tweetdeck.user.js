@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sadrach minimal Tweetdeck
 // @namespace    https://github.com/sadrachone/Tweetdeck_Sadrach_Style
-// @version      0.3
+// @version      0.5
 // @description  versión más clara y simple de tweetdeck a mi pinta
 // @author       @Sadrach
 // @match        https://tweetdeck.twitter.com/*
