@@ -4,7 +4,7 @@
 // @version      0.3
 // @description  versión más clara y simple de tweetdeck a mi pinta
 // @author       @Sadrach
-// @match        https://tweetdeck.twitter.com/
+// @match        https://tweetdeck.twitter.com/*
 // @license      https://github.com/sadrachone/Tweetdeck_Sadrach_Style/raw/master/LICENSE
 // @homepage     https://github.com/sadrachone/Tweetdeck_Sadrach_Style/
 // @twitterURL   https://twitter.com/sadrach
