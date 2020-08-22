@@ -1,0 +1,133 @@
+/* Barra de desplazamiento oculta (visible solo al deslizar)*/
+.column-drag-handle {
+	visibility: hidden !important;
+}
+
+/* Eliminar Numero de Columna*/
+.column-number {
+	visibility: hidden;
+	 !important;
+}
+
+/* Tamaño fuente de titulo en columnas (default es 20px)*/
+.column-title {
+	font-size: 16px;
+	 !important;
+}
+
+/*Color Titulo Columnas*/
+.column-header {
+	background-color: #fff;
+	border-bottom: hidden;
+	 !important;
+}
+
+/*Iconos Laterales*/
+.icon {
+	font-size: 14px;
+	 !important;
+}
+
+/* Ocultar logo inferior barra lateral */
+.tweetdeck-logo {
+	display: inline-block;
+	opacity: 0;
+	 !important;
+}
+
+//No recuerdo que xuxa
+.app-columns {
+	padding-bottom: 1px;
+	padding: 1px 0px 1px 1px;
+	 !important;
+}
+
+.column {
+	padding: 0px 1px 0px 0px;
+	margin-right: 3px;
+	 !important;
+}
+
+.is-narrow-columns {
+	margin-right: 3px;
+	padding: 1px 0px 1px 1px;
+	 !important;
+}
+
+//Caja de respuestas
+
+.icon-popout:before {
+	color: #000;
+	 !important;
+}
+
+.icon-close:before {
+	color: #000;
+	 !important;
+}
+
+.icon--close:before {
+	color: #000;
+	 !important;
+}
+
+.compose-account {
+	visibility: hidden !important;
+	 !important;
+}
+
+.character-count-compose:disabled {
+	width: 60px;
+	color: #000;
+	text-align: right;
+	font-size: 16px;
+	 !important;
+}
+
+.reply-triangle {
+	border-color: transparent transparent transparent transparent;
+	 !important;
+}
+
+//Ocultar Badge lateral nuevos tuits (punto azul)
+
+.column-nav-updates {
+	visibility: hidden;
+	position: absolute;
+	top: 3px;
+	right: 6px;
+	color: #1f1f1f;
+	opacity: 0;
+	transition: opacity 100ms linear !important;
+}
+
+.heartsprite {
+	width: 80px;
+	height: 80px;
+	 !important;
+}
+/*experimental nuevas features*/
+body {
+    height: 100%;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+.inline-reply {
+    transition-property: max-height;
+    transition-duration: .25s;
+    transition-delay: 0;
+    background-color: #FFFFFF;
+    cursor: default;
+    overflow: hidden;
+    margin-top: 8px;
+    color: #fff;
+    box-sizing: border-box;
+    max-height: 320px;
+}
+
+.app-search-fake .icon, .app-search-fake .Icon {
+    margin: -6px -2px;
+    font-size: 16px;
+    vertical-align: 1px;
+}
